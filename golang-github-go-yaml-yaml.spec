@@ -4,7 +4,7 @@
 #
 Name     : golang-github-go-yaml-yaml
 Version  : a83829b6f1293c91addabc89d0571c246397bbf4
-Release  : 2
+Release  : 3
 URL      : https://github.com/go-yaml/yaml/archive/a83829b6f1293c91addabc89d0571c246397bbf4.tar.gz
 Source0  : https://github.com/go-yaml/yaml/archive/a83829b6f1293c91addabc89d0571c246397bbf4.tar.gz
 Summary  : No detailed summary available
